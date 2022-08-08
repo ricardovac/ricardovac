@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=typingricky&label=Profile%20views&color=0e75b6&style=flat" alt="typingricky" /> </p>
 
-- 🌱 I’m currently learning **VueJS and NextJS**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Python, HTML and CSS**
 
