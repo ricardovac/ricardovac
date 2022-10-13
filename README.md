@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **VueJS and React**
 
-- 💬 Ask me about **Python, HTML and CSS**
+- 💬 Ask me about **JavaScript, HTML and CSS**
 
 - 📫 How to reach me **ricardoviicius@gmail.com**
 
