@@ -7,7 +7,7 @@
 
 <h2> Um pouco sobre mim </h2>
 
-📌 Ciência da Computação / Estágio QA na empresa Solutis Tecnologias.
+📌 Ciência da Computação / Junior Software Developer na empresa Solutis Tecnologias.
 
 🔨 Meu último projeto foi um website de consultoria para RH (<a href="https://hrminds.com.br" target="blank">hrminds.com.br</a>) utilizando as tecnologias trpc, prisma, next.js e aws s3.
 
