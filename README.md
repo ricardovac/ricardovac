@@ -17,6 +17,6 @@
 
 
 <p align="center">
-  <img width="66%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardovac&theme=zenburn"/>
-  <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ricardovac&theme=zenburn"/>
+  <img width="66.6%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardovac&theme=zenburn"/>
+  <img width="32.4%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ricardovac&theme=zenburn"/>
 </p>
